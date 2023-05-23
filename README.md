@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Guilherme 
 
-Software Engenieer, Full-Stack Developer,Systems Analyst and Developer  and more... to learn more about my work see my profile on LinkedIn 
+Software Engenieer, Full-Stack Developer, Systems Analyst and Developer  and more... to learn more about my work see my profile on LinkedIn 
 
 [![linkendim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sobral-martins/)
 
