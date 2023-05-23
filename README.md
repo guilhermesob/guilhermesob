@@ -37,14 +37,16 @@ I' am Guilherme
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
-<
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icon=true&theme-dracula&include_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=guilhermesob&show_icon=true&theme=bluegreen&include"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+
 </div>
 
 
+ 
 
 
 
