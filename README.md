@@ -1,6 +1,8 @@
 ### Hi there 👋 
 I' am Guilherme 
 
+Software Engenieer, Full-Stack Developer, Ciber Security Analyst and more... To know moreabout me see my linkendim
+
 [![linkendim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sobral-martins/)
 
 I'm learning at the moment **.NET**
