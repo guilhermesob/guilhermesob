@@ -41,7 +41,7 @@ I' am Guilherme
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icon=true&theme-dracula&include_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=guilhermesob&show_icon=true&theme=bluegreen&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=guilhermesob&show_icon=true&theme=bluegreen&include"/>
 </div>
 
 
