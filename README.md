@@ -3,6 +3,15 @@ I' am Guilherme
 
 [![linkendim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sobral-martins/)
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icon=true&theme-dracula&include_all_commit=true&count_private=true"/>
+ <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+
+</div>
+</br>
+
+Tecnologies
+
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![ruby on rail](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -39,11 +48,6 @@ I' am Guilherme
 <!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icon=true&theme-dracula&include_all_commit=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-
-</div>
 
 
  
