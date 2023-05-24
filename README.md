@@ -55,10 +55,11 @@ I'm learning at the moment **.NET**
 
 
 
-<!--
-  <img width="55%" height="295px" src="https://github-readme-stats.vercel.app/apiusername=guilhermesob&theme=dark&include_all_commit=true&count_private=true"/>
-  <img width="44%" height="295px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)](https://github.com/anuraghazra/github-readme-stats"/>
--->
+
+teste 2
+  <img  src="https://github-readme-stats.vercel.app/apiusername=guilhermesob&theme=dark&include_all_commit=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)](https://github.com/anuraghazra/github-readme-stats"/>
+
 
 
 <!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
