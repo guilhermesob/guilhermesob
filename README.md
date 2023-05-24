@@ -54,12 +54,8 @@ I'm learning at the moment **.NET**
 
 -->
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
-
-![2](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
