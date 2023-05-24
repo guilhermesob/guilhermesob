@@ -56,8 +56,9 @@ I'm learning at the moment **.NET**
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
+![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
 
-  ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)](https://github.com/anuraghazra/github-readme-stats)
+![2](https://github.com/anuraghazra/github-readme-stats)
 
 
 
