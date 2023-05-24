@@ -58,7 +58,7 @@ I'm learning at the moment **.NET**
 
 teste 2
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)](https://github.com/anuraghazra/github-readme-stats"/>
 
