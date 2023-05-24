@@ -53,28 +53,27 @@ I'm learning at the moment **.NET**
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)
 
 ## ⚡ GitHub Stats
-
+<!---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob)
-
+-->
 <details>
 <p align="center">
   <a href="https://github.com/guilhermesob">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent&count_private=true" />
   </a>
   <a href="https://github.com/guilhermesob">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=transparent&count_private=true" />
   </a>
   <a href="https://github.com/guilhermesob">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count_private=true" />
   </a>
   <a href="https://github.com/guilhermesob">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
   </a>
 </p>
 </details>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob)
 
 <!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
 
