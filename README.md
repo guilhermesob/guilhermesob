@@ -41,18 +41,18 @@ I'm learning at the moment **.NET**
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![postresgl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
+### Machine Learning
+
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)
+
 ## ⚡ GitHub Stats
-
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&hide=TeX&layout=compact)
-
--->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
