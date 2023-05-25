@@ -49,8 +49,8 @@ I'm learning at the moment **.NET**
 
 ### Machine Learning
 
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)]
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)]
 
 ## ⚡ GitHub Stats
 <!---
