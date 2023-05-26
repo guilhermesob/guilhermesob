@@ -53,10 +53,11 @@ I'm learning at the moment **.NET**
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
 
 ## ⚡ GitHub Stats
-<!---
+<!--- -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
--->
+teste
+![2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=&count_private=true)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob)
 <!--<details> -->
 <p align="center">
