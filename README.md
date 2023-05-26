@@ -1,3 +1,4 @@
+
 ### Hi there 👋 
 I'm Guilherme 
 
@@ -62,24 +63,18 @@ I'm learning at the moment **.NET**
  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide"/> 
 -->
- <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true"/>
  
  
-<!--- coppy  
-<p align="center">
-  <a href="https://github.com/guilhermesob">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermmesob&theme=transparent" />
-  </a>
+<!--
+<details>
 -->
-
-<!--<details>-->
-
+ <!-- dados do usuario in-->
 <p align="center">
-<!-- dados do usuario-->
-  <a href="https://github.com/guilhermesob">
-    <img src=(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=show_icons=true&count_private=true") />
-<!-- dados do usuario-->
-                                                                                                                                                 
+  <a href="https://github.com/gui">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent" />
+  </a>
+<!-- dados do usuario end-->
+                                                                                                                                               
 <!-- all days comits-->
   <a href="https://github.com/guilhermesob">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" />
@@ -94,9 +89,15 @@ I'm learning at the moment **.NET**
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true"/>
   </a>
 </p>
-<!--</details> -->
+<!--
+</details>
+-->
+<p align="center">
+  <a href="https://github.com/guilhermesob">
+    <img src="https://komarev.com/ghpvc/?username=guilhermesob&color=blue&style=flat)" />
+  </a>
+</p>
 
-<!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
 
 <!--
 **guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
