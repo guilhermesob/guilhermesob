@@ -53,28 +53,38 @@ I'm learning at the moment **.NET**
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
 
 ## ⚡ GitHub Stats
-<!--- -->
+<!---status reserva-->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
-teste
-![2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=&count_private=true)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob)
-<!--<details> -->
+<!--end status reserva -->
+
+<!--![12](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=&count_private=true)-->
+
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true) -->
+
+<details>
+
 <p align="center">
+<!-- dados do usuario-->
   <a href="https://github.com/guilhermesob">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent&count_private=true" />
-  </a>
+    <img src=(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=show_icons=true&count_private=true")
+<!-- dados do usuario-->
+                                                                                                                                                 
+<!-- all days comits-->
   <a href="https://github.com/guilhermesob">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=transparent&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" />
   </a>
+  <!--commits -->
   <a href="https://github.com/guilhermesob">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count_private=true" />
   </a>
+  <!-- github link -->
   <a href="https://github.com/guilhermesob">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
+  <!-- stars total-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true"/>
   </a>
 </p>
-<!--</details> -->
+</details> 
 
 <!--- []https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white-->
 
@@ -92,5 +102,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
