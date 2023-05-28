@@ -5,10 +5,9 @@ I'm Guilherme
 Software Engenieer, Full-Stack Developer, Systems Analyst and Developer  and more... to learn more about my work see my profile on LinkedIn 
 
 [![linkendim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sobral-martins/)
-
+<!--
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guilherme-sobral-martins" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/guilherme-sobral-martins?trk=profile-badge">GUILHERME SOBRAL MARTINS</a></div>
-              
-
+-->
 I'm learning at the moment **.NET**
 
 ### Tecnologies & Tools
