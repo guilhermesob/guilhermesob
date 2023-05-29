@@ -54,7 +54,7 @@ I'm learning at the moment **.NET**
 
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
-![Metaplotilib](
+<!---![Metaplotilib]() -->
 
 ### OS
 ![linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -92,7 +92,7 @@ I'm learning at the moment **.NET**
 <!-- all days comits-->
   <a href="https://github.com/guilhermesob">
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&private=true" />
   <!-- 
    [1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" />
  -->
