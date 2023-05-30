@@ -54,6 +54,7 @@ I'm learning at the moment **.NET**
 
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <!---![Metaplotilib]() -->
 
 ### OS
