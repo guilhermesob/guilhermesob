@@ -159,7 +159,7 @@ I'm learning at the moment **.NET**
 
 <p align="center">
   <a href="https://github.com/guilhermesob">
-    <img src="https://komarev.com/ghpvc/?username=guilhermesob&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=guilhermesob&color=blue&style=large)" />
   </a>
 </p>
 
