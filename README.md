@@ -48,7 +48,7 @@ I'm learning at the moment **.NET**
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![jupynter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -92,7 +92,7 @@ I'm learning at the moment **.NET**
 ### Virtualization ⚡ 💻  
 ![virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Vmware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-<!-- https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white -->
+![vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)
 
 ### Design
 ![aftereffects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
@@ -109,7 +109,6 @@ I'm learning at the moment **.NET**
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true)
-
  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide"/> 
 -->
@@ -154,8 +153,9 @@ I'm learning at the moment **.NET**
   </a>
 </p>
 
-
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=guilhermesob"/>
+</p>
 <!--
 **guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
