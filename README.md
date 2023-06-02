@@ -77,6 +77,7 @@ I'm learning at the moment **.NET**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 ### OS
 ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](	https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -137,16 +138,16 @@ I'm learning at the moment **.NET**
 <!-- dados do usuario end-->
                                                                                                                    
 <!-- all days comits-->
-<a href="https://github.com/guilhermesob">
+<a href="https://github.com/guilhermesob" >
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&private=true" />
- 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&p" />
 <!--![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" /> -->
  </a>
  
   <!--commits -->
   <a href="https://github.com/guilhermesob">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count_private=true" />
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count_private=true" />  -->
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" />
   </a>
  
   <!-- github link -->
@@ -155,6 +156,7 @@ I'm learning at the moment **.NET**
   <!-- stars total-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
    
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
   </a>
 </p>
 <!-- </details> -->
