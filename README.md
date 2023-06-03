@@ -147,8 +147,9 @@ I'm learning at the moment **.NET**
 <!-- all days comits-->
 <a href="https://github.com/guilhermesob" >
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&p" />
-<!--![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true"/>
+ 
+ <!--![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" /> -->
  </a>
 
   <!--commits -->
