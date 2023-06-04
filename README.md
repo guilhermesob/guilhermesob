@@ -149,7 +149,7 @@ I'm learning at the moment **.NET**
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&"/>
  
- <!--![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count_private=true" /> -->
+ <!--![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true" /> -->
  </a>
 
   <!--commits -->
@@ -164,21 +164,21 @@ I'm learning at the moment **.NET**
   <!-- stars total -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
    
- <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
+ <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count&private=true" />
   </a> -->
 </p>
 <!-- </details> -->
  
 <p align="center">
   <a href="https://github.com/guilhermesob">
-    <img src="https://komarev.com/ghpvc/?username=guilhermesob&color=blue&style=large)" />
+    <img src="https://komarev.com/ghpvc/?username=guilhermesob&color=blue&style=large" />
   </a>
 </p>
-<!--  AQUI
+<!--  AQUI-->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=guilhermesob"/>
 </p>
--->
+
 <!--
 **guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
