@@ -159,21 +159,25 @@ I'm learning at the moment **.NET**
   </a>
  
   <!-- github link -->
-  <a href="https://github.com/guilhermesob">
+ 
+ <a href="https://github.com/guilhermesob">
    
-  <!-- stars total -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count_private=true" />
-   
- <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count&private=true" />
-  </a> -->
+  <!-- LENGUGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK,,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,card_width=700" />
+   <!-- FUNCIONAL BACKUP
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
+    -->
+  
+  
+ <!-- LAYOT MAIS BONITO -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count&private=true" /> 
+  
+  </a> 
 </p>
 <!-- </details> -->
  
-<p align="center">
-  <a href="https://github.com/guilhermesob">
-    <img src="https://komarev.com/ghpvc/?username=guilhermesob&color=blue&style=large" />
-  </a>
-</p>
+
+
 <!--  AQUI-->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=guilhermesob"/>
