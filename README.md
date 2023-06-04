@@ -131,7 +131,7 @@ I'm learning at the moment **.NET**
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true)
  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesob&show_icons=true&count_private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&layout=compact&hide"/> 
--->
+  -->
  
  
 <!-- <details> -->
@@ -144,7 +144,7 @@ I'm learning at the moment **.NET**
  
 <!-- dados do usuario end-->
                                                                                                                    
-<!-- all days comits-->
+<!--all days comits-->
 <a href="https://github.com/guilhermesob" >
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&public=true&private=true"/>
@@ -154,19 +154,19 @@ I'm learning at the moment **.NET**
 
   <!--commits -->
   <a href="https://github.com/guilhermesob">
-    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count&private=true" />  -->
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count&private=true" /> 
+ <!--backup  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" /> -->
   </a>
  
   <!-- github link -->
  
  <a href="https://github.com/guilhermesob">
    
-  <!-- LENGUGES -->
+  <!-- LENGUGES
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK,,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,card_width=700" />
-   <!-- FUNCIONAL BACKUP
+   <!-- FUNCIONAL BACKUP-->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
-    -->
+   <!-- -->
   
   
  <!-- LAYOT MAIS BONITO -->
