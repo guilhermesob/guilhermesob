@@ -164,17 +164,15 @@ I'm learning at the moment **.NET**
  
  <a href="https://github.com/guilhermesob">
    
-  <!-- LENGUGES
+  <!-- LENGUAGES
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK,,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,card_width=700" />
-
    <!-- FUNCIONAL BACKUP -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
 
-  
-  
  <!-- LAYOT MAIS BONITO
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count&private=true"/> 
-  -->
+ -->
+  
   </a> 
 </p>
 <!-- </details> -->
@@ -186,6 +184,8 @@ I'm learning at the moment **.NET**
 <img src="https://github-profile-trophy.vercel.app/?username=guilhermesob"/>
 </p>
 
+<!-- View -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true"/>
 <!--
 **guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
