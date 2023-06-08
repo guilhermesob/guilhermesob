@@ -144,8 +144,7 @@ I'm learning at the moment **.NET**
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent" />
   </a>
  
-<!-- dados do usuario end-->
-                                                                                                                   
+<!-- dados do usuario end-->                                                                              
 <!--all days comits-->
 <a href="https://github.com/guilhermesob" >
 
