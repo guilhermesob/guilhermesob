@@ -1,6 +1,6 @@
 
 ### Hi there 👋 
-I'm Guilherme .
+I'm Guilherme 
 
 Software Engenieer, Full-Stack Developer, Systems Analyst and Developer  and more... to learn more about my work see my profile on 
 
