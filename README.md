@@ -148,9 +148,9 @@ I'm learning at the moment **.NET** and Unity
 
  <!--all days comits-->
 <a href="https://github.com/guilhermesob" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> 
-
-<!-- ![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true"/>
+<!--backup functionali -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> -->
  </a>
 
   <!--commits -->
