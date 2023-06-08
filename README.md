@@ -164,7 +164,7 @@ I'm learning at the moment **.NET**
  
   <!-- github link -->
  
- <a href="https://github.com/guilhermesob">
+ <a href="https://github.com/gui">
    
   <!-- LENGUAGES
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK,,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,card_width=700" />
