@@ -140,8 +140,10 @@ I'm learning at the moment **.NET**
  <!-- dados do usuario in-->
  
 <p align="center">
-  <a href="https://github.com/gui">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent" />
+  <a href="https://github.com/guilhermesob">
+   
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent"/>
+   <!-- BACKUO FUNCTIONAL  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesob&theme=transparent" /> -->
   </a>
  
 <!-- dados do usuario end-->
