@@ -145,34 +145,33 @@ I'm learning at the moment **.NET**
   </a>
  
 <!-- dados do usuario end-->                                                                              
-<!--all days comits-->
-<a href="https://github.com/guilhermesob" >
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true" />
- 
-<!-- ![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true" /> -->
+ <!--all days comits-->
+<a href="https://github.com/guilhermesob" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> 
+
+<!-- ![1]<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> -->
  </a>
 
   <!--commits -->
   <a href="https://github.com/guilhermesob">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent&count&private=true" /> 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" />
+   
  <!--backup  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" /> -->
   </a>
  
   <!-- github link -->
  
- <a href="https://github.com/guilhermesob">
-   
+ <a href="https://github.com/gui">
    
   <!-- LENGUAGES
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK,,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,card_width=700" />
-   <!-- FUNCIONAL BACKUP -->
-  
+   <!-- FUNCIONAL BACKUP 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
+-->
+ <!-- LAYOT MAIS BONITO -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
 
- <!-- LAYOT MAIS BONITO
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent&count&private=true"/> 
- -->
   
   </a> 
 </p>
@@ -187,6 +186,10 @@ I'm learning at the moment **.NET**
 
 <!-- View -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true"/>
+<!--
+**guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ 
 <!--
 **guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
