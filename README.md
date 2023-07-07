@@ -2,7 +2,7 @@
 ### Hi there 👋 
 I'm Guilherme 
 
-Software Engenieer,Cybersecurity Specialist, Full-Stack Developer, Systems Analyst and Developer, CTF Player and more... to learn more about my work see my profile on 
+Software Engenieer, Cybersecurity Specialist, Full-Stack Developer, Systems Analyst and Developer, CTF Player and more... to learn more about my work see my profile on 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/guisobralmartins.png" alt="TryHackMe">
 
