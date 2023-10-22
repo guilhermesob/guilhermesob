@@ -183,9 +183,12 @@ I'm learning at the moment **.NET**, and **Unity3d**
    <!-- FUNCIONAL BACKUP 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
 -->
- <!-- LAYOT MAIS BONITO  -->
+ <!-- LAYOT MAIS BONITO 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
+ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true" width="80%" height="80%">
  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
+
 
   
   </a> 
