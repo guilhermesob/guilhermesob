@@ -166,26 +166,16 @@ I'm learning at the moment **.NET**, and **Unity3d**
 <!--all days comits-->
 <a href="https://github.com/guilhermesob" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" />
-<!--backup functionali -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> -->
+
  </a>
  <!--commits -->
   <a href="https://github.com/guilhermesob">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" />   
-<!--backup  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" /> -->
   </a>
   <!-- github link -->
 
  <a href="https://github.com/gui">
    
-  <!-- LENGUAGES
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK,,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,card_width=700" />
-   <!-- FUNCIONAL BACKUP 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
--->
- <!-- LAYOT MAIS BONITO 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
- -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&theme=transparent&count&private=true" width="75%">
 </p>
