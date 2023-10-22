@@ -154,7 +154,7 @@ I'm learning at the moment **.NET**, and **Unity3d**
  
  
 <!-- <details> -->
- <!-- dados do usuario in-->
+<!-- dados do usuario in-->
  
 <p align="center">
   <a href="https://github.com/gui">
@@ -163,22 +163,19 @@ I'm learning at the moment **.NET**, and **Unity3d**
  
 <!-- dados do usuario end-->                                                                              
 
- <!--all days comits-->
+<!--all days comits-->
 <a href="https://github.com/guilhermesob" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" />
 <!--backup functionali -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermesob&hide_border=true&card_width=338&theme=show_icons=true&count&private=true&public=true" /> -->
  </a>
-
-  <!--commits -->
+ <!--commits -->
   <a href="https://github.com/guilhermesob">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" /> 
-   
- <!--backup  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" /> -->
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" />   
+<!--backup  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermesob&theme=transparent" /> -->
   </a>
- 
   <!-- github link -->
- 
+
  <a href="https://github.com/gui">
    
   <!-- LENGUAGES
@@ -186,8 +183,9 @@ I'm learning at the moment **.NET**, and **Unity3d**
    <!-- FUNCIONAL BACKUP 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebooK" />
 -->
- <!-- LAYOT MAIS BONITO -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
+ <!-- LAYOT MAIS BONITO  -->
+ <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
 
   
   </a> 
@@ -201,12 +199,14 @@ I'm learning at the moment **.NET**, and **Unity3d**
 <img src="https://github-profile-trophy.vercel.app/?username=guilhermesob"/>
 </p>
 
+<!--SNAKE 
+![Snake animation](https://github.com/guilhermesob/guilhermesob/blob/output/github-contribution-grid-snake.svg)
+snake end-->
+
 <!-- View -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermesob.guilhermesob&show_icons=true&count_private=true"/>
 <!--
-**guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- 
+**guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 <!--
 **guilhermesob/guilhermesob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
