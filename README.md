@@ -186,7 +186,13 @@ I'm learning at the moment **.NET**, and **Unity3d**
  <!-- LAYOT MAIS BONITO 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true"/> 
  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=20&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&theme=transparent&count&private=true" width="80%" height="80%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&theme=transparent&count&private=true" width="75%">
+</p>
+
+</p>
+
+
  <br>
 
 
