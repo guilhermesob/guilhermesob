@@ -10,7 +10,7 @@ Software Engenieer, Cybersecurity Specialist, Full-Stack Developer, Systems Anal
 <!--
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guilherme-sobral-martins" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/guilherme-sobral-martins?trk=profile-badge">GUILHERME SOBRAL MARTINS</a></div>
 -->
-I'm learning at the moment **.NET**, and **Unity3d**
+I'm learning at the moment **.NET**
 
 ### Tecnologies & Tools
 
