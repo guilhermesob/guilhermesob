@@ -195,22 +195,15 @@ I'm learning at the moment **.NET**
  <a href="https://github.com/gui">
    
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&theme=transparent&count&private=true" width="75%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesob&langs_count=38&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&theme=transparent&count&private=true" width="100%">
 </p>
-
 </p>
-
-
  <br>
 
-
-  
   </a> 
 </p>
 <!-- </details> -->
  
-
-
 <!--  AQUI-->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=guilhermesob"/>
